@@ -1,6 +1,6 @@
 """Extract signatures from an image."""
 # ----------------------------------------------
-# --- Author         : Kennedy Rotich
+# --- Author         : Kennedy Rotich.
 # --- Mail           : kennrottich@gmail.com
 # --- Date           : 27th November 2024
 # ----------------------------------------------
