@@ -51,14 +51,14 @@ The signature extractor architecture already explain in the main repo [readme]()
 If you use this code for your publications, please cite it as:
 
     @ONLINE{hse,
-        author = "Ahmet Özlü",
+        author = "Kennedy Rotich",
         title  = "Overlapped handwritten signature extraction from scanned documents",
-        year   = "2018",
-        url    = "https://github.com/ahmetozlu/signature_extractor"
+        year   = "2024",
+        url    = "https://github.com/RotichKipkoech/signature_extractor"
     }
 
 ## Author
-Ahmet Özlü
+Kennedy Rotich
 
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
