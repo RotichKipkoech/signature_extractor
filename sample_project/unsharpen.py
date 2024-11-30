@@ -2,9 +2,9 @@
 """Soften an image."""
 # -*- coding: utf-8 -*-
 # -----------------------------------------
-# author      : Ahmet Ozlu
-# mail        : ahmetozlu93@gmail.com
-# date        : 05.05.2019
+# author      : Kennedy Rotich
+# mail        : kennrottich@gmail.com
+# date        : 27.11.2024
 # -----------------------------------------
 
 import cv2
