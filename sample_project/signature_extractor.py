@@ -1,8 +1,8 @@
 """Extract signatures from an image."""
 # ----------------------------------------------
-# --- Author         : Ahmet Ozlu
-# --- Mail           : ahmetozlu93@gmail.com
-# --- Date           : 17th September 2018
+# --- Author         : Kennedy Rotich
+# --- Mail           : kennrottich@gmail.com
+# --- Date           : 27th November 2024
 # ----------------------------------------------
 
 import cv2
